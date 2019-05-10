@@ -1,0 +1,44 @@
+header{
+    height: 100px;
+    background-color: rebeccapurple;
+    text-align: center;
+}
+.title{
+    text-align: center
+}
+.option{
+    margin: 24px 0;
+    padding: 4px;
+}
+.price{
+    display: block;
+    font-size: 30px;
+    margin: 0 auto;
+}
+#cart{
+    padding: 16px;
+    border: 2px solid indigo;
+    width: 600px;
+    margin: 0 auto;
+
+}
+
+#cart > select,
+#cart > input,
+#cart > output{
+    width: 75px;
+    margin-right: 16px;
+
+}
+output{
+    font-weight: 700;
+    width: 100px;
+}
+#h1{
+    background-color: blue;
+}
+.img{
+    width: 10px;
+    height: 10px;
+    
+}
